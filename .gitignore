@@ -9,3 +9,14 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+content/journal
+content/personal
+content/media/
+content/Clippings
+content/Templates
+content/Excalidraw
+content/annotations
+content/documents
+*\.bak
+*\.alt
+\.*
